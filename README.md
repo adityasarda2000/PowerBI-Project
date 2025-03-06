@@ -12,7 +12,7 @@ This project provides **deep insights into company sales performance** using **P
 
 ## 🛠 **Tools & Technologies Used**  
 
-| Tool         | Purpose |
+| 🛠 Tool         | 📌 Purpose |
 |-------------|--------------------------------------------------|
 | **Power BI** | Data visualization & interactive dashboards  |
 | **MySQL**   | Database management & data transformation |
@@ -50,19 +50,21 @@ The following **9 datasets** were extracted & used in Power BI:
 
 ### 📈 **1️⃣ Revenue Trends Over Time**  
 📌 **Revenue fluctuates** over time, showing seasonal patterns.  
-📌 **Peak revenue months** align with key sales cycles.  
+📌 **Highest revenue recorded on:** **January 1, 2018**  
+📌 **Total Revenue:** **₹984,813,463** (≈ ₹984.8 million)  
 
 ### 🛒 **2️⃣ Top 5 Products by Revenue**  
-📌 **Few key products dominate sales**, emphasizing product dependence.  
-📌 **Diversification needed** to reduce reliance on top-selling products.  
+📌 **Best-performing product:** *Blank Product*  
+📌 **A few products contribute significantly to total revenue**.  
 
 ### 👥 **3️⃣ Top 5 Customers**  
-📌 **A small number of customers drive the majority of revenue.**  
-📌 **Focus on customer retention** to maintain strong sales.  
+📌 **Top revenue-generating customer:** **Electricalsara Stores**  
+📌 **Customer retention is key for maintaining revenue.**  
 
 ### 🌍 **4️⃣ Market-Wise Revenue & Sales Distribution**  
-📌 **Not all markets perform equally** – some contribute significantly more.  
-📌 **Targeted marketing efforts** can help improve weaker regions.  
+📌 **Highest Revenue Market:** **Delhi NCR**  
+📌 **Market with the Highest Sales Quantity:** **Delhi NCR**  
+📌 **Total Sales Quantity:** **2,429,282** units  
 
 ---
 
