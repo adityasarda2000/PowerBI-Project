@@ -22,7 +22,3 @@ This project is a **Power BI report** designed to provide **data-driven insights
 
 
 
-## Customization
-- Modify visuals to fit specific business needs.
-- Connect new data sources to refresh insights.
-- Adjust filters and slicers for a more tailored analysis.
