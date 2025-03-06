@@ -92,4 +92,4 @@ The following **9 datasets** were extracted & used in Power BI:
 
 ✅ **Apply Filters:** Select **dates, products, customers, or markets** to drill down into details.  
 ✅ **Hover Over Graphs:** See **detailed tooltips** with insights.  
-✅ **Switch Between Pages:** Explore different **report views** in Power BI.  
+
