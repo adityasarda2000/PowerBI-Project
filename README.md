@@ -3,10 +3,13 @@
 ## 🔍 **Project Overview**  
 This project provides **deep insights into company sales performance** using **Power BI** for visualization and **MySQL** for data processing. The dashboard helps business users analyze:  
 
-✅ **Revenue trends over time**  
-✅ **Top-performing products & customers**  
-✅ **Market-wise sales distribution**  
-✅ **Total sales revenue & quantity**  
+ **Revenue trends over time**  
+ **Top-performing products & customers**  
+ **Market-wise sales distribution**  
+ **Total sales revenue & quantity**  
+ **Performance Analysis of the Company**
+ **Profit Analysis**
+ 
 
 ---
 
